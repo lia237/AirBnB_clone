@@ -19,6 +19,7 @@ To start the AirBnB Clone Command Interpreter, follow these steps:
 Navigate to the project directory:
 
 `cd AirBnB_clone`
+
 Run the command interpreter:
 
 `./console`
