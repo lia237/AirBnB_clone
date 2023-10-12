@@ -37,18 +37,23 @@ Here are some example commands you can use in the AirBnB Clone Command Interpret
 
 To create a new user:
 ```shell
-(hbnb) create User email="user@example.com" password="password"
-```shell
+
+`(hbnb) create User email="user@example.com" password="password"`
+
 To display details of a specific listing:
-```shell
-(hbnb) show Listing 12345
+
+`(hbnb) show Listing 12345`
+
 To update the price of a listing:
-```shell
-(hbnb) update Listing 54321 price 150
+
+`(hbnb) update Listing 54321 price 150`
+
 To list all users:
-```shell
-(hbnb) all User
+
+`(hbnb) all User`
+
 For additional examples and detailed use cases, please consult the project's documentation.
+
 
 Authors
 This project is the result of a collaborative effort, and we would like to acknowledge the contributions of the following individuals:
