@@ -38,6 +38,7 @@ Here are some example commands you can use in the AirBnB Clone Command Interpret
 To create a new user:
 ```shell
 (hbnb) create User email="user@example.com" password="password"
+shell```
 To display details of a specific listing:
 ```shell
 (hbnb) show Listing 12345
