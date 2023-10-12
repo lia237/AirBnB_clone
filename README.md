@@ -26,7 +26,7 @@ Run the command interpreter:
 
 The interpreter will launch, and you'll be ready to enter commands.
 
-How to Use
+##How to Use
 
 The command interpreter supports a variety of commands for managing objects. Here are some essential commands and their usage:
 
@@ -60,7 +60,7 @@ To list all users:
 For additional examples and detailed use cases, please consult the project's documentation.
 
 
-Authors
+##Authors
 This project is the result of a collaborative effort, and we would like to acknowledge the contributions of the following individuals:
 ILHAM ANHAYFOU
 ABDELHAKIM ELAMRANI
