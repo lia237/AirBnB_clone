@@ -36,7 +36,6 @@ Examples
 Here are some example commands you can use in the AirBnB Clone Command Interpreter:
 
 To create a new user:
-```shell
 
 `(hbnb) create User email="user@example.com" password="password"`
 
@@ -47,7 +46,7 @@ To display details of a specific listing:
 To update the price of a listing:
 
 `(hbnb) update Listing 54321 price 150`
-OOA
+
 To list all users:
 
 `(hbnb) all User`
