@@ -17,11 +17,16 @@ To start the AirBnB Clone Command Interpreter, follow these steps:
    ```bash
    git clone https://github.com/your-username/AirBnB_clone.git
 Navigate to the project directory:
-cd AirBnB_clone
+
+`cd AirBnB_clone`
 Run the command interpreter:
-./console
+
+`./console`
+
 The interpreter will launch, and you'll be ready to enter commands.
+
 How to Use
+
 The command interpreter supports a variety of commands for managing objects. Here are some essential commands and their usage:
 
 create: Create a new object (e.g., create a user or a listing).
